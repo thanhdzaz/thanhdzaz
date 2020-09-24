@@ -1,16 +1,9 @@
 ### Hi there 👋
-<!DOCTYPE html>
-<head>
-</head>
-<body class="a" style="background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);background-attachment: fixed;" >
-    <center><h1><b>Bài 01: Sử dụng các tag cơ bản</b></h1></center>
-    <h2><b><u>Yêu cầu</u></b></h2>
-    <b>Thiết kế trang web có nội dung như sau:</b>
-    <center><p>Lập trình web</p></center>
-    <center><p>Chào mừng đến với HTML</p></center>
+
+   <center><h1><b>Thành Cute</b></h1></center>
+  
     
-</body>
-</html>
+
 
 
 
