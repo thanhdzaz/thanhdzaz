@@ -1,5 +1,5 @@
 
-<center><h1>Thành Cute💤<span><img src="/logo.png" align="right" alt="Logo"></img></span></h1></center>
+<h1 align="center">Thành Cute💤<span><img src="/logo.png" align="right" alt="Logo"></img></span></h1>
 
 <h2>Hi there, I'm Thanh 💦</h2>
   
