@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><b>Thành Cute</b></h1>
-### Hi there,I'm Thanh 💦
+<h2>Hi there,I'm Thanh 💦</h2>
   
 - 🌱 I’m currently learning PHP Laravel
 
