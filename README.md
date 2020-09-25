@@ -2,9 +2,9 @@
 
    <center><h1><b>Thành Cute</b></h1></center>
   
-    
+- 🌱 I’m currently learning PHP Laravel
 
-
+<img src="/logo.png" align="right" alt="Logo"></img>
 
 
 <!--
