@@ -5,7 +5,6 @@
   
 - 🌱 I’m currently learning PHP Laravel
 
-<img src="/logo.png" align="right" alt="Logo"></img>
 
 
 <!--
