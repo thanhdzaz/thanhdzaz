@@ -1,7 +1,7 @@
 
-<h1 align="center">Thành Cute💤<span><img src="/logo.png" align="right" alt="Logo"></img></span></h1>
+<h1 align="center">Thành Cute💤</h1>
 
-<h2>Hi there, I'm Thanh 💦</h2>
+<h2>Hi there, I'm Thanh 💦<span><img src="/logo.png" align="right" alt="Logo"></img></span></h2>
   
 - 🌱 I’m currently learning PHP Laravel
 
