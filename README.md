@@ -1,5 +1,5 @@
 
-<h1><span><img src="/logo.png" align="center" alt="Logo"></img></span></h1>
+<center><h1><span><img src="/logo.png" align="center" alt="Logo"></img></span></h1></center>
 
 <h2>Hi there, I'm Thanh 💦</h2>
   
