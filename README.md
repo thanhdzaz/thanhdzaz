@@ -1,6 +1,6 @@
 
 
-   <center><h1><b>Thành Cute</b></h1></center>
+<h1 align="center"><b>Thành Cute</b></h1>
   
 - 🌱 I’m currently learning PHP Laravel
 
