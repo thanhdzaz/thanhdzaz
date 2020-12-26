@@ -4,7 +4,8 @@
 <h2>Hi there, I'm Thanh 💦<span><img src="/logo.png" align="right" alt="Logo"></img></span></h2>
 - 📫 How to reach me: <a href="https://fb.me/thanh.dz.az" target="_blank"> Facebook</a> <br>
 - 🌱 I’m currently learning PHP Laravel
-
+- 🤣 Fun Fact: No fact. 
+- 🥴🥴🥴🥴🥴
 
 
 <!--
