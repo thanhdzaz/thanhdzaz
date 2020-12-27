@@ -1,7 +1,7 @@
 
 <h1 align="center">Thành Cute💤</h1>
 <link rel="stylesheet" href="style.css">
-<h2>Hi there, I'm Thanh 💦<span><img src="/logo.png" align="right" alt="Logo"></img></span></h2>
+<h2 style="color: rgb(255, 113, 113);">Hi there, I'm Thanh 💦<span><img src="/logo.png" align="right" alt="Logo"></img></span></h2>
 - 📫 How to reach me: <a href="https://fb.me/thanh.dz.az" target="_blank"> Facebook</a> <br>
 - 🌱 I’m currently learning PHP Laravel <br>
 - 🤣 Fun Fact: No fact. <br> 
