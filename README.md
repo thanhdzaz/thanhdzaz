@@ -3,9 +3,7 @@
 <link rel="stylesheet" href="style.css">
 <h2 style="color: rgb(255, 113, 113);">Hi there, I'm Thanh 💦<span><img src="/logo.png" align="right" alt="Logo"></img></span></h2>
 - 📫 How to reach me: <a href="https://fb.me/thanh.dz.az" target="_blank"> Facebook</a> <br>
-- 🌱 I’m currently learning PHP Laravel <br>
-- 🤣 Fun Fact: No fact. <br> 
-- 🥴🥴🥴🥴🥴 <br>
+- 🌱 I’m currently learning PHP Laravel & React Native <br>
 
 
 
