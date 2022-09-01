@@ -1,6 +1,3 @@
-*{
-    background-color: burlywood;
-}
 h1{
     color: red;
 }
@@ -8,7 +5,46 @@ h2{
     color: green;
 }
 
-.react{
-    width: 20px;
-    height: auto;
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
 }
+
+@keyframes spin2 {
+    from {
+        transform:rotate(360deg);
+    }
+    to {
+        transform:rotate(0deg);
+    }
+}
+.react-native
+{
+    width: 100px;
+    height: auto;
+    animation-name: spin2;
+    animation-duration: 5000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear; 
+}
+.react{
+    width: 100px;
+    height: auto;
+    animation-name: spin;
+    animation-duration: 5000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear; 
+}
+table{
+    width: 100%;
+    border: none;
+}
+/* table>tr>td{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
