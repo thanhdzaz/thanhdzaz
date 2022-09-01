@@ -4,10 +4,10 @@
 			<style>
 				@keyframes rotate {
 					0% {
-						transform: rotate(3deg);
+						transform: rotate(0deg);
 					}
 					100% {
-						transform: rotate(-3deg);
+						transform: rotate(360deg);
 					}
 				}
 				@keyframes gradientBackground {
@@ -70,6 +70,7 @@
 				div.react,div.react-native{
 					width: 100px;
 					height: 100px;
+					animation: rotate 5s linear infinite;
 				}
 
 				.col{
