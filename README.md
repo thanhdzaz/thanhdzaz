@@ -1,6 +1,6 @@
 
 <h1 align="center">Em Thành Thật Thà</h1>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="./style.css">
 <h2 style="color: rgb(255, 113, 113);">Hi there, I'm Thanh 💦</h2>
 - 🤔 I’m currently a Front End Developer<br>
 - 📫 How to reach me: <a href="https://fb.me/thanh.dz.az" target="_blank"> Facebook</a> <br>
