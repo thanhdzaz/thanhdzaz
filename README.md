@@ -1,24 +1,7 @@
 
 <img src="head.svg"></img>
-<link rel="stylesheet" href="./style.css">
-<h2 style="color: rgb(255, 113, 113);">Hi there, I'm Thanh 💦</h2>
-- 🤔 I’m currently a Front End Developer<br>
-- 📫 How to reach me: <a href="https://fb.me/thanh.dz.az" target="_blank"> Facebook</a> <br>
-<br/>
-
-<h3>Experience:</h3>
-<br/>
-<table>
-    <tr>
-        <td span="1">
-          <img class='react' src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="Logo" align="center"></img>&nbsp; 1 year with ReactJS
-        </td>
-         <td span="1">
-          <img class='react-native' src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="Logo" align="center"></img>  1 year with React Native
-        </td>
-    </tr>
-</table>
-
+<img src="body.svg"></img>
+<img src="foot.svg"></img>
 
 <!--
 **thanhdzaz/thanhdzaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

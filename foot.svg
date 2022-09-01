@@ -1,0 +1,133 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="auto" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes rotate {
+					0% {
+						transform: rotate(3deg);
+					}
+					100% {
+						transform: rotate(-3deg);
+					}
+				}
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+				@keyframes fadeIn {
+					from {
+						opacity: 0;
+					}
+					
+					to {
+						opacity: 1;
+					}
+				}
+				.view{
+                    width: 100%;
+                    display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+                }
+				.container {
+					padding: 14px;
+					box-sizing: border-box;
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					margin: 0;
+					width: 85%;
+					height: 400px;
+					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 10px;
+					color: white;
+					text-align: center;
+				}
+				p {
+					font-size: 20px;
+					text-shadow: 0 1px 0 #efefef;
+				}
+
+				div.react,div.react-native{
+					width: 100px;
+					height: 100px;
+				}
+
+				.col{
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+				}
+				table{
+					width: 100%;
+					animation: 2s ease 0s normal forwards 1 fadeIn;
+				}
+				h2 {
+					animation: 2s ease 0s normal forwards 1 fadeIn;
+				}
+			</style>
+			<div class="view">
+              	<div class="container">
+					<h2>Experience</h2>
+					<br/>
+					<table>
+						<tr>
+							<td span="1">
+								<div class="col">
+									<div class='react'>
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="-11.5 -10.23174 23 20.46348">
+											<title>React Logo</title>
+											<circle cx="0" cy="0" r="2.05" fill="#61dafb"/>
+											<g stroke="#61dafb" stroke-width="1" fill="none">
+												<ellipse rx="11" ry="4.2"/>
+												<ellipse rx="11" ry="4.2" transform="rotate(60)"/>
+												<ellipse rx="11" ry="4.2" transform="rotate(120)"/>
+											</g>
+										</svg>
+									</div>
+									<p>1 year with ReactJS</p>
+								</div>
+							</td>
+							<td span="1">
+								<div class="col">
+									<div class='react-native'>
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="-11.5 -10.23174 23 20.46348">
+											<title>React Logo</title>
+											<circle cx="0" cy="0" r="2.05" fill="#61dafb"/>
+											<g stroke="#61dafb" stroke-width="1" fill="none">
+												<ellipse rx="11" ry="4.2"/>
+												<ellipse rx="11" ry="4.2" transform="rotate(60)"/>
+												<ellipse rx="11" ry="4.2" transform="rotate(120)"/>
+											</g>
+										</svg>
+									</div>
+									<p>1 year with React Native</p>
+								 </div>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
