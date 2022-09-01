@@ -1,12 +1,12 @@
 
 <a disabled href="#">
-    <img style="cursor: default;" href="#" src="head.svg"></img>
+    <img disabled style="cursor: default;" href="#" src="head.svg"></img>
 </a>
 <a title="Reach me" href="https://fb.me/thanh.dz.az" target="_blank">
     <img style="cursor: default;" href="#" src="body.svg"></img>
 </a>
 <a disabled href="#">
-    <img style="cursor: default;" href="#" src="foot.svg"></img>
+    <img disabled style="cursor: default;" href="#" src="foot.svg"></img>
 </a>
 <!--
 **thanhdzaz/thanhdzaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
