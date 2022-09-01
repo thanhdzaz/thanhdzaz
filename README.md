@@ -1,7 +1,9 @@
 
-<img src="head.svg"></img>
-<img src="body.svg"></img>
-<img src="foot.svg"></img>
+<img style="cursor: default;" href="#" src="head.svg"></img>
+<a title="Reach me" href="fb.me/thanh.dz.az">
+    <img style="cursor: default;" href="#" src="body.svg"></img>
+</a>
+<img style="cursor: default;" href="#" src="foot.svg"></img>
 
 <!--
 **thanhdzaz/thanhdzaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
