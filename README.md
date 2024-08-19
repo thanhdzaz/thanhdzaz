@@ -1,7 +1,8 @@
 
-<a disabled href="#">
+<!-- <a disabled href="#">
     <img disabled style="cursor: default;" href="#" src="head.svg"></img>
 </a>
+-->
 <a title="Reach me" href="https://fb.me/thanh.dz.az" target="_blank">
     <img style="cursor: default;" href="#" src="body.svg"></img>
 </a>
