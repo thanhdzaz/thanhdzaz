@@ -40,7 +40,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,jira,postman,figma,webstorm,vscode,mysql,spring" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,postman,figma,webstorm,vscode,mysql,spring" />
 </p>
 
 ### 🚀 Featured work
