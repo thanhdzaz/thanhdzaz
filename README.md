@@ -1,25 +1,11 @@
+<h1 align="center">Hi 👋, I'm Thanh</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=36BCF7&lines=Frontend+Developer;React+%2B+TypeScript;Building+cool+UIs" />
+</p>
 
-<!-- <a disabled href="#">
-    <img disabled style="cursor: default;" href="#" src="head.svg"></img>
-</a>
--->
-<a title="Reach me" href="https://fb.me/thanh.dz.az" target="_blank">
-    <img style="cursor: default;" href="#" src="body.svg"></img>
-</a>
-<a disabled href="#">
-    <img disabled style="cursor: default;" href="#" src="foot.svg"></img>
-</a>
-<!--
-**thanhdzaz/thanhdzaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech stack
+<img src="https://skillicons.dev/icons?i=react,ts,vue,vite,tailwind,git" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
